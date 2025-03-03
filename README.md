@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 About Me
+- 🏗️ **Software Engineer** passionate about **automation, infrastructure, and clean code**.
+- 🏢 Working at **HashiCorp** on the **Packer team**.
+- 🔥 Learning **Packer** and diving deep into **Golang**.
+- ⚡ Love geeking out over **developer tools, automation workflows, and infrastructure as code**.
+- 💡 Always excited to explore **new technologies and side projects**.
