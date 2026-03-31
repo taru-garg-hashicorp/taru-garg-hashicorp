@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 - 🏗️ **Software Engineer** passionate about **automation, infrastructure, and clean code**.
-- 🏢 Working at **HashiCorp** on the **Vagrant team**.
-- 🔥 Learning **Vagrant**, **Ruby** and **Golang**.
+- 🏢 Working at **HashiCorp** on the **Packer and Vagrant team**.
+- 🔥 Learning **Packer**, **Vagrant**, **Ruby** and **Golang**.
 - 💡 Always excited to explore **new technologies and side projects**.
