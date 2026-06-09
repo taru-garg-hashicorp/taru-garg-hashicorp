@@ -1,22 +1,31 @@
-## Hi there! I'm Taru Garg 👋
+# Hi there, I'm Taru Garg 👋
 
-<!--
-**taru-garg-hashicorp/taru-garg-hashicorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer who enjoys building automation, infrastructure tooling, and clean, reliable developer workflows. I work at **HashiCorp** on the **Packer and Vagrant team**, where I get to learn, build, and contribute to tools used by developers and platform teams around the world.
 
 ## 🚀 About Me
-- 🏗️ **Software Engineer** passionate about **automation, infrastructure, and clean code**.
-- 🏢 Working at **HashiCorp** on the **Packer and Vagrant team**.
-- 🔥 Learning **Packer**, **Vagrant**, **Ruby** and **Golang**.
-- 💡 Always excited to explore **new technologies and side projects**.
+
+- 🏗️ Passionate about **automation**, **infrastructure**, and **clean code**
+- 🏢 Software Engineer at **HashiCorp** on the **Packer and Vagrant team**
+- 🌱 Currently learning more about **Packer**, **Vagrant**, **Ruby**, and **Golang**
+- 💡 Always excited to explore new technologies, side projects, and developer tools
+- 🤝 Interested in collaborating on infrastructure, DevOps, and open-source projects
+
+## 🛠️ Tech & Tools
+
+- **Languages:** Go, Ruby
+- **Infrastructure & Automation:** Packer, Vagrant, Terraform ecosystem
+- **Interests:** Developer experience, CI/CD, automation, open source, distributed systems
+
+## 🌟 What I'm Focused On
+
+- Deepening my understanding of infrastructure automation
+- Building reliable, maintainable tooling for developers
+- Contributing to open-source projects and learning from the community
+
+## 📫 Let's Connect
+
+Feel free to check out my repositories and connect with me here on GitHub!
+
+---
+
+_Thanks for stopping by!_ ✨
